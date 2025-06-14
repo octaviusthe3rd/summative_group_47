@@ -1,0 +1,10 @@
+To-Do
+
+    - Script to process data
+    - Schema for db
+
+
+Done
+
+
+Script to process data
