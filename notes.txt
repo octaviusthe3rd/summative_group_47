@@ -1,10 +1,13 @@
 To-Do
 
-    - Script to process data
-    - Schema for db
+    - Api
+    - Backend
+    - Frontend
 
 
 Done
 
 
-Script to process data
+-Script to process data
+-Schema for db
+-Script to load db
