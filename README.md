@@ -2,6 +2,27 @@
 
 As stated above, this repository contains an xml file containing 1600 messages from MTN Momo (data) as well as code to extract the data from the xml file, sort it into different categories, then extracting information from these messages and storing them in an SQLite database.
 
+## Installation
+
+1. Download the repository from github using the link or the command
+
+    git clone https://github.com/octaviusthe3rd/summative_group_47.git
+
+2. Navigate into the downloaded repository
+3. At the root of the repository, activate the virtual environment using one of the below commands
+ 
+        Windows command:
+
+            dev_env/Scripts/activate
+
+        Mac/Linux command:
+
+            source myenv/bin/activate
+
+4. Install the project dependecies using the following command
+
+    pip install -r requirements.txt
+
 ## How to run the program
 
 1. Navigate to './sort'
