@@ -3,7 +3,7 @@ import json
 import os
 from datetime import datetime
 
-class JSONToSQLite:
+class JSONToDB:
     def __init__(self, db="transactions.db"):
         self.db = db
         self.create_database()
@@ -469,7 +469,7 @@ class JSONToSQLite:
         return total_loaded
 
 if __name__ == "__main__":
-    loader = JSONToSQLite("transactions.db")
+    loader = JSONToDB("transactions.db")
     
     # Load all JSON data
     total_records = loader.load_all_data("../separate_files/parsed_json")
