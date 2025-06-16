@@ -1,0 +1,2482 @@
+[
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-11 18:43:49",
+    "new_balance": 40400.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2024-05-11 18:43:49. your new balance :40400 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 1
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-14 09:10:29",
+    "new_balance": 5980.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-14 09:10:29. your new balance :5980 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 2
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-14 19:06:03",
+    "new_balance": 5960.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-14 19:06:03. your new balance :5960 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 3
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-15 09:13:09",
+    "new_balance": 5460.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-15 09:13:09. your new balance :5460 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 4
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-15 23:17:44",
+    "new_balance": 5340.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-15 23:17:44. your new balance :5340 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 5
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-15 23:20:36",
+    "new_balance": 10340.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-15 23:20:36. your new balance :10340 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 6
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-18 08:11:36",
+    "new_balance": 5690.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-18 08:11:36. your new balance :5690 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 7
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-18 08:48:00",
+    "new_balance": 9190.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-18 08:48:00. your new balance :9190 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 8
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-20 17:45:23",
+    "new_balance": 5970.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-20 17:45:23. your new balance :5970 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 9
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-21 18:15:06",
+    "new_balance": 6550.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-21 18:15:06. your new balance :6550 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 10
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-22 13:44:11",
+    "new_balance": 6450.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-22 13:44:11. your new balance :6450 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 11
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-24 11:43:17",
+    "new_balance": 6150.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-24 11:43:17. your new balance :6150 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 12
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-24 23:04:07",
+    "new_balance": 5050.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-24 23:04:07. your new balance :5050 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 13
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-25 11:18:40",
+    "new_balance": 6050.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-25 11:18:40. your new balance :6050 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 14
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-25 17:18:07",
+    "new_balance": 9050.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-25 17:18:07. your new balance :9050 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 15
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-25 17:19:48",
+    "new_balance": 14050.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-25 17:19:48. your new balance :14050 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 16
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 25000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-26 02:06:45",
+    "new_balance": 26750.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 25000 rwf has been added to your mobile money account at 2024-05-26 02:06:45. your new balance :26750 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 17
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 25000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-26 14:49:08",
+    "new_balance": 25800.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 25000 rwf has been added to your mobile money account at 2024-05-26 14:49:08. your new balance :25800 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 18
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-26 15:44:53",
+    "new_balance": 10550.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-05-26 15:44:53. your new balance :10550 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 19
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-26 17:18:51",
+    "new_balance": 10450.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-05-26 17:18:51. your new balance :10450 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 20
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-27 07:57:08",
+    "new_balance": 5450.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-27 07:57:08. your new balance :5450 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 21
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-28 07:21:39",
+    "new_balance": 30150.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-05-28 07:21:39. your new balance :30150 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 22
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 15000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-29 17:18:18",
+    "new_balance": 16600.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 15000 rwf has been added to your mobile money account at 2024-05-29 17:18:18. your new balance :16600 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 23
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-30 12:13:58",
+    "new_balance": 5400.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-30 12:13:58. your new balance :5400 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 24
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-05-31 09:39:09",
+    "new_balance": 5700.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-05-31 09:39:09. your new balance :5700 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 25
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-01 01:28:58",
+    "new_balance": 6480.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-01 01:28:58. your new balance :6480 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 26
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-01 11:28:55",
+    "new_balance": 9880.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-01 11:28:55. your new balance :9880 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 27
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 15000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-01 19:46:10",
+    "new_balance": 15730.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 15000 rwf has been added to your mobile money account at 2024-06-01 19:46:10. your new balance :15730 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 28
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-02 20:56:47",
+    "new_balance": 5130.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-02 20:56:47. your new balance :5130 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 29
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-03 13:08:48",
+    "new_balance": 6530.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-03 13:08:48. your new balance :6530 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 30
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-03 15:32:37",
+    "new_balance": 6430.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-03 15:32:37. your new balance :6430 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 31
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-03 18:56:18",
+    "new_balance": 8230.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-03 18:56:18. your new balance :8230 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 32
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-04 13:51:52",
+    "new_balance": 5630.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-04 13:51:52. your new balance :5630 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 33
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-05 09:49:25",
+    "new_balance": 10030.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-06-05 09:49:25. your new balance :10030 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 34
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 21000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-05 17:19:19",
+    "new_balance": 25330.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 21000 rwf has been added to your mobile money account at 2024-06-05 17:19:19. your new balance :25330 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 35
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 200000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-05 18:03:43",
+    "new_balance": 200830.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 200000 rwf has been added to your mobile money account at 2024-06-05 18:03:43. your new balance :200830 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 36
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-05 18:07:08",
+    "new_balance": 205830.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-05 18:07:08. your new balance :205830 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 37
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-06 08:18:21",
+    "new_balance": 6630.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-06 08:18:21. your new balance :6630 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 38
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-06 17:56:07",
+    "new_balance": 5230.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-06 17:56:07. your new balance :5230 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 39
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-07 07:52:17",
+    "new_balance": 5830.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-07 07:52:17. your new balance :5830 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 40
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-11 07:51:04",
+    "new_balance": 5350.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-11 07:51:04. your new balance :5350 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 41
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-11 16:57:52",
+    "new_balance": 5110.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-11 16:57:52. your new balance :5110 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 42
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-12 13:04:27",
+    "new_balance": 6210.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-12 13:04:27. your new balance :6210 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 43
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-12 17:03:05",
+    "new_balance": 6110.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-12 17:03:05. your new balance :6110 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 44
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-12 17:42:10",
+    "new_balance": 13110.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-06-12 17:42:10. your new balance :13110 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 45
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-13 13:35:40",
+    "new_balance": 5150.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-13 13:35:40. your new balance :5150 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 46
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-13 18:24:09",
+    "new_balance": 11850.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-06-13 18:24:09. your new balance :11850 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 47
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 25000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-14 07:49:33",
+    "new_balance": 29750.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 25000 rwf has been added to your mobile money account at 2024-06-14 07:49:33. your new balance :29750 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 48
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-14 13:06:59",
+    "new_balance": 5950.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-14 13:06:59. your new balance :5950 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 49
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 15000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-14 13:56:53",
+    "new_balance": 16950.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 15000 rwf has been added to your mobile money account at 2024-06-14 13:56:53. your new balance :16950 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 50
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 8000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-14 21:54:38",
+    "new_balance": 8330.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 8000 rwf has been added to your mobile money account at 2024-06-14 21:54:38. your new balance :8330 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 51
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-15 14:00:04",
+    "new_balance": 51030.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-06-15 14:00:04. your new balance :51030 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 52
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-16 13:20:31",
+    "new_balance": 21570.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-06-16 13:20:31. your new balance :21570 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 53
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-17 15:01:29",
+    "new_balance": 20130.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-06-17 15:01:29. your new balance :20130 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 54
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-17 16:26:27",
+    "new_balance": 52880.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-06-17 16:26:27. your new balance :52880 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 55
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-17 19:50:19",
+    "new_balance": 29410.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-06-17 19:50:19. your new balance :29410 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 56
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-19 22:16:00",
+    "new_balance": 17510.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-06-19 22:16:00. your new balance :17510 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 57
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-21 17:39:32",
+    "new_balance": 10640.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-06-21 17:39:32. your new balance :10640 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 58
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-22 10:10:55",
+    "new_balance": 6240.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-22 10:10:55. your new balance :6240 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 59
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-22 10:48:17",
+    "new_balance": 14940.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-06-22 10:48:17. your new balance :14940 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 60
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-22 18:15:11",
+    "new_balance": 26220.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-06-22 18:15:11. your new balance :26220 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 61
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-23 16:45:45",
+    "new_balance": 20020.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-06-23 16:45:45. your new balance :20020 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 62
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-24 14:51:47",
+    "new_balance": 5420.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-24 14:51:47. your new balance :5420 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 63
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-24 18:15:17",
+    "new_balance": 5800.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-24 18:15:17. your new balance :5800 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 64
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-24 21:04:26",
+    "new_balance": 5580.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-24 21:04:26. your new balance :5580 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 65
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-25 13:32:23",
+    "new_balance": 20760.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-06-25 13:32:23. your new balance :20760 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 66
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-25 22:10:11",
+    "new_balance": 34960.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-06-25 22:10:11. your new balance :34960 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 67
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-26 12:55:03",
+    "new_balance": 10360.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-26 12:55:03. your new balance :10360 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 68
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-26 13:48:25",
+    "new_balance": 5260.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-26 13:48:25. your new balance :5260 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 69
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-26 18:38:44",
+    "new_balance": 30160.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-06-26 18:38:44. your new balance :30160 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 70
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-26 21:08:02",
+    "new_balance": 5290.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-26 21:08:02. your new balance :5290 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 71
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-27 12:42:04",
+    "new_balance": 6990.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-27 12:42:04. your new balance :6990 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 72
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-27 19:36:13",
+    "new_balance": 11170.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-06-27 19:36:13. your new balance :11170 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 73
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-27 19:38:09",
+    "new_balance": 16170.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-27 19:38:09. your new balance :16170 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 74
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-28 13:53:56",
+    "new_balance": 7920.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-06-28 13:53:56. your new balance :7920 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 75
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-28 17:19:26",
+    "new_balance": 44420.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2024-06-28 17:19:26. your new balance :44420 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 76
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-28 17:20:55",
+    "new_balance": 84420.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2024-06-28 17:20:55. your new balance :84420 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 77
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-28 23:16:51",
+    "new_balance": 40170.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-06-28 23:16:51. your new balance :40170 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 78
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-29 00:29:42",
+    "new_balance": 41670.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2024-06-29 00:29:42. your new balance :41670 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 79
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-29 01:13:24",
+    "new_balance": 55170.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-06-29 01:13:24. your new balance :55170 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 80
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 100000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-29 13:16:37",
+    "new_balance": 103920.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 100000 rwf has been added to your mobile money account at 2024-06-29 13:16:37. your new balance :103920 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 81
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 100000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-29 20:13:54",
+    "new_balance": 113350.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 100000 rwf has been added to your mobile money account at 2024-06-29 20:13:54. your new balance :113350 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 82
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-30 20:36:22",
+    "new_balance": 30490.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-06-30 20:36:22. your new balance :30490 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 83
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-06-30 22:09:01",
+    "new_balance": 46390.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-06-30 22:09:01. your new balance :46390 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 84
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-01 18:15:19",
+    "new_balance": 61070.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-01 18:15:19. your new balance :61070 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 85
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-02 11:14:05",
+    "new_balance": 57120.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-02 11:14:05. your new balance :57120 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 86
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-03 09:54:59",
+    "new_balance": 49870.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2024-07-03 09:54:59. your new balance :49870 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 87
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-03 17:53:48",
+    "new_balance": 30070.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-07-03 17:53:48. your new balance :30070 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 88
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-04 14:04:30",
+    "new_balance": 50220.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-04 14:04:30. your new balance :50220 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 89
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-05 09:40:39",
+    "new_balance": 20470.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-07-05 09:40:39. your new balance :20470 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 90
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-05 19:21:46",
+    "new_balance": 50320.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-05 19:21:46. your new balance :50320 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 91
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-06 15:48:36",
+    "new_balance": 54950.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2024-07-06 15:48:36. your new balance :54950 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 92
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-07 15:20:52",
+    "new_balance": 17060.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-07-07 15:20:52. your new balance :17060 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 93
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-07 18:03:43",
+    "new_balance": 19060.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-07-07 18:03:43. your new balance :19060 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 94
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-08 16:56:13",
+    "new_balance": 52540.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-08 16:56:13. your new balance :52540 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 95
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 45000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-09 18:34:23",
+    "new_balance": 49270.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 45000 rwf has been added to your mobile money account at 2024-07-09 18:34:23. your new balance :49270 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 96
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-11 09:30:51",
+    "new_balance": 20340.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-07-11 09:30:51. your new balance :20340 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 97
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-14 14:35:37",
+    "new_balance": 50040.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-14 14:35:37. your new balance :50040 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 98
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-14 22:55:49",
+    "new_balance": 55110.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-14 22:55:49. your new balance :55110 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 99
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 9000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-15 01:02:10",
+    "new_balance": 9110.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 9000 rwf has been added to your mobile money account at 2024-07-15 01:02:10. your new balance :9110 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 100
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-15 14:34:58",
+    "new_balance": 24010.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-07-15 14:34:58. your new balance :24010 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 101
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 60000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-16 19:50:17",
+    "new_balance": 70390.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 60000 rwf has been added to your mobile money account at 2024-07-16 19:50:17. your new balance :70390 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 102
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-17 18:11:34",
+    "new_balance": 42190.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2024-07-17 18:11:34. your new balance :42190 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 103
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-19 12:47:34",
+    "new_balance": 13420.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-07-19 12:47:34. your new balance :13420 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 104
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-19 20:58:18",
+    "new_balance": 28420.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-07-19 20:58:18. your new balance :28420 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 105
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-20 21:06:20",
+    "new_balance": 21260.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-07-20 21:06:20. your new balance :21260 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 106
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-20 21:48:47",
+    "new_balance": 20110.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-07-20 21:48:47. your new balance :20110 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 107
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-22 11:00:48",
+    "new_balance": 20060.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-07-22 11:00:48. your new balance :20060 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 108
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-23 13:52:55",
+    "new_balance": 12660.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-07-23 13:52:55. your new balance :12660 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 109
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-23 21:28:32",
+    "new_balance": 10040.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-07-23 21:28:32. your new balance :10040 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 110
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 7800.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-24 13:06:48",
+    "new_balance": 9240.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 7800 rwf has been added to your mobile money account at 2024-07-24 13:06:48. your new balance :9240 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 111
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 9000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-24 19:22:30",
+    "new_balance": 9240.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 9000 rwf has been added to your mobile money account at 2024-07-24 19:22:30. your new balance :9240 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 112
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-24 19:50:23",
+    "new_balance": 52640.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-24 19:50:23. your new balance :52640 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 113
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-26 00:13:12",
+    "new_balance": 22000.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-07-26 00:13:12. your new balance :22000 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 114
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-26 12:36:17",
+    "new_balance": 35000.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-07-26 12:36:17. your new balance :35000 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 115
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 675000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-26 13:54:06",
+    "new_balance": 675950.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 675000 rwf has been added to your mobile money account at 2024-07-26 13:54:06. your new balance :675950 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 116
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-26 15:11:45",
+    "new_balance": 685950.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-07-26 15:11:45. your new balance :685950 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 117
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-26 15:20:20",
+    "new_balance": 54950.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-26 15:20:20. your new balance :54950 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 118
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-26 15:27:48",
+    "new_balance": 58750.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-26 15:27:48. your new balance :58750 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 119
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-26 16:10:40",
+    "new_balance": 17550.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-07-26 16:10:40. your new balance :17550 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 120
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-26 19:34:27",
+    "new_balance": 56730.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-07-26 19:34:27. your new balance :56730 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 121
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 100000.0,
+    "currency": "RWF",
+    "timestamp": "2024-07-28 18:14:17",
+    "new_balance": 109560.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 100000 rwf has been added to your mobile money account at 2024-07-28 18:14:17. your new balance :109560 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 122
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-01 19:06:21",
+    "new_balance": 50210.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-08-01 19:06:21. your new balance :50210 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 123
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 66000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-02 12:46:11",
+    "new_balance": 112790.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 66000 rwf has been added to your mobile money account at 2024-08-02 12:46:11. your new balance :112790 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 124
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-03 23:27:49",
+    "new_balance": 53340.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-08-03 23:27:49. your new balance :53340 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 125
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-04 21:44:14",
+    "new_balance": 23240.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-08-04 21:44:14. your new balance :23240 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 126
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-05 17:18:05",
+    "new_balance": 10090.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-08-05 17:18:05. your new balance :10090 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 127
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-06 20:23:38",
+    "new_balance": 20290.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-08-06 20:23:38. your new balance :20290 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 128
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-07 12:49:27",
+    "new_balance": 53090.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-08-07 12:49:27. your new balance :53090 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 129
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-07 18:01:41",
+    "new_balance": 54390.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-08-07 18:01:41. your new balance :54390 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 130
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 100000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-10 18:03:09",
+    "new_balance": 101050.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 100000 rwf has been added to your mobile money account at 2024-08-10 18:03:09. your new balance :101050 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 131
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-25 15:27:42",
+    "new_balance": 55600.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-08-25 15:27:42. your new balance :55600 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 132
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-26 18:24:15",
+    "new_balance": 73630.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-08-26 18:24:15. your new balance :73630 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 133
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-28 11:51:44",
+    "new_balance": 43210.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-08-28 11:51:44. your new balance :43210 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 134
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 100000.0,
+    "currency": "RWF",
+    "timestamp": "2024-08-30 12:12:37",
+    "new_balance": 100960.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 100000 rwf has been added to your mobile money account at 2024-08-30 12:12:37. your new balance :100960 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 135
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-01 17:49:16",
+    "new_balance": 51870.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2024-09-01 17:49:16. your new balance :51870 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 136
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-02 13:53:33",
+    "new_balance": 50870.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-02 13:53:33. your new balance :50870 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 137
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-03 21:02:44",
+    "new_balance": 51590.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-03 21:02:44. your new balance :51590 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 138
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-06 18:54:13",
+    "new_balance": 20890.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-09-06 18:54:13. your new balance :20890 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 139
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-10 00:14:17",
+    "new_balance": 53870.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-10 00:14:17. your new balance :53870 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 140
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-10 18:17:00",
+    "new_balance": 58280.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-10 18:17:00. your new balance :58280 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 141
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-12 17:15:57",
+    "new_balance": 54210.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-12 17:15:57. your new balance :54210 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 142
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 345000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-13 13:22:34",
+    "new_balance": 376260.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 345000 rwf has been added to your mobile money account at 2024-09-13 13:22:34. your new balance :376260 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 143
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 600000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-13 16:29:38",
+    "new_balance": 625160.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 600000 rwf has been added to your mobile money account at 2024-09-13 16:29:38. your new balance :625160 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 144
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-14 11:57:49",
+    "new_balance": 50800.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-14 11:57:49. your new balance :50800 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 145
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 100000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-14 18:04:48",
+    "new_balance": 102250.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 100000 rwf has been added to your mobile money account at 2024-09-14 18:04:48. your new balance :102250 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 146
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 12000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-16 17:58:53",
+    "new_balance": 12000.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 12000 rwf has been added to your mobile money account at 2024-09-16 17:58:53. your new balance :12000 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 147
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-17 13:41:10",
+    "new_balance": 50000.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-17 13:41:10. your new balance :50000 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 148
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-18 22:39:11",
+    "new_balance": 23150.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-09-18 22:39:11. your new balance :23150 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 149
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-19 15:26:11",
+    "new_balance": 52930.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-19 15:26:11. your new balance :52930 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 150
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-20 18:27:28",
+    "new_balance": 50030.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-20 18:27:28. your new balance :50030 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 151
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-22 13:38:06",
+    "new_balance": 65600.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-22 13:38:06. your new balance :65600 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 152
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-23 13:32:08",
+    "new_balance": 10450.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-09-23 13:32:08. your new balance :10450 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 153
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 15000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-23 20:15:39",
+    "new_balance": 15550.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 15000 rwf has been added to your mobile money account at 2024-09-23 20:15:39. your new balance :15550 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 154
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-23 23:29:23",
+    "new_balance": 50300.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-23 23:29:23. your new balance :50300 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 155
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 1050000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-24 10:41:07",
+    "new_balance": 1064480.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 1050000 rwf has been added to your mobile money account at 2024-09-24 10:41:07. your new balance :1064480 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 156
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-24 20:54:01",
+    "new_balance": 21180.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-09-24 20:54:01. your new balance :21180 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 157
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-26 14:56:09",
+    "new_balance": 50130.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-26 14:56:09. your new balance :50130 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 158
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-26 19:44:05",
+    "new_balance": 49360.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-09-26 19:44:05. your new balance :49360 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 159
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 60000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-27 22:34:11",
+    "new_balance": 61560.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 60000 rwf has been added to your mobile money account at 2024-09-27 22:34:11. your new balance :61560 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 160
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-28 22:54:03",
+    "new_balance": 56210.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-09-28 22:54:03. your new balance :56210 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 161
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 210000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-29 17:59:36",
+    "new_balance": 238110.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 210000 rwf has been added to your mobile money account at 2024-09-29 17:59:36. your new balance :238110 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 162
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-30 07:29:05",
+    "new_balance": 35260.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-09-30 07:29:05. your new balance :35260 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 163
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 150000.0,
+    "currency": "RWF",
+    "timestamp": "2024-09-30 09:43:51",
+    "new_balance": 173160.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 150000 rwf has been added to your mobile money account at 2024-09-30 09:43:51. your new balance :173160 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 164
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-01 17:25:13",
+    "new_balance": 69610.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-10-01 17:25:13. your new balance :69610 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 165
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 9000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-03 16:49:22",
+    "new_balance": 9012.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 9000 rwf has been added to your mobile money account at 2024-10-03 16:49:22. your new balance :9012 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 166
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 25000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-03 17:48:41",
+    "new_balance": 29012.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 25000 rwf has been added to your mobile money account at 2024-10-03 17:48:41. your new balance :29012 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 167
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-03 19:57:12",
+    "new_balance": 24012.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-10-03 19:57:12. your new balance :24012 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 168
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 80000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-03 20:53:27",
+    "new_balance": 88762.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 80000 rwf has been added to your mobile money account at 2024-10-03 20:53:27. your new balance :88762 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 169
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-04 19:44:54",
+    "new_balance": 20012.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-10-04 19:44:54. your new balance :20012 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 170
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 25000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-04 23:19:28",
+    "new_balance": 33312.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 25000 rwf has been added to your mobile money account at 2024-10-04 23:19:28. your new balance :33312 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 171
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-05 17:07:22",
+    "new_balance": 51962.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-10-05 17:07:22. your new balance :51962 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 172
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-06 22:40:56",
+    "new_balance": 33412.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-10-06 22:40:56. your new balance :33412 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 173
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-07 13:24:46",
+    "new_balance": 10812.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-10-07 13:24:46. your new balance :10812 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 174
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 3000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-07 22:06:34",
+    "new_balance": 10812.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 3000 rwf has been added to your mobile money account at 2024-10-07 22:06:34. your new balance :10812 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 175
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-08 18:07:17",
+    "new_balance": 51812.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-10-08 18:07:17. your new balance :51812 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 176
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-08 18:25:30",
+    "new_balance": 15212.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-10-08 18:25:30. your new balance :15212 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 177
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-08 20:47:51",
+    "new_balance": 12962.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-10-08 20:47:51. your new balance :12962 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 178
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-09 22:23:10",
+    "new_balance": 32962.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-10-09 22:23:10. your new balance :32962 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 179
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-12 14:35:35",
+    "new_balance": 10405.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-10-12 14:35:35. your new balance :10405 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 180
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 6000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-12 15:35:48",
+    "new_balance": 6705.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 6000 rwf has been added to your mobile money account at 2024-10-12 15:35:48. your new balance :6705 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 181
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-12 17:49:54",
+    "new_balance": 52605.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-10-12 17:49:54. your new balance :52605 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 182
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 60000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-14 11:32:40",
+    "new_balance": 62605.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 60000 rwf has been added to your mobile money account at 2024-10-14 11:32:40. your new balance :62605 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 183
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-18 19:49:31",
+    "new_balance": 53750.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-10-18 19:49:31. your new balance :53750 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 184
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-28 22:43:43",
+    "new_balance": 57782.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-10-28 22:43:43. your new balance :57782 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 185
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-29 23:53:56",
+    "new_balance": 25012.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-10-29 23:53:56. your new balance :25012 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 186
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 45000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-30 23:43:05",
+    "new_balance": 45612.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 45000 rwf has been added to your mobile money account at 2024-10-30 23:43:05. your new balance :45612 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 187
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-31 18:20:46",
+    "new_balance": 12842.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-10-31 18:20:46. your new balance :12842 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 188
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-10-31 21:22:04",
+    "new_balance": 56142.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-10-31 21:22:04. your new balance :56142 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 189
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-01 14:04:17",
+    "new_balance": 22022.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-11-01 14:04:17. your new balance :22022 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 190
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-01 22:58:52",
+    "new_balance": 56822.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-11-01 22:58:52. your new balance :56822 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 191
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-02 14:06:14",
+    "new_balance": 23472.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-11-02 14:06:14. your new balance :23472 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 192
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-03 14:52:24",
+    "new_balance": 28332.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-11-03 14:52:24. your new balance :28332 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 193
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 340000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-03 21:31:04",
+    "new_balance": 352312.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 340000 rwf has been added to your mobile money account at 2024-11-03 21:31:04. your new balance :352312 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 194
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-04 10:04:06",
+    "new_balance": 21312.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-11-04 10:04:06. your new balance :21312 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 195
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-04 17:20:53",
+    "new_balance": 58212.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-11-04 17:20:53. your new balance :58212 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 196
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-04 19:10:34",
+    "new_balance": 37962.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-11-04 19:10:34. your new balance :37962 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 197
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-08 10:00:21",
+    "new_balance": 60947.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-11-08 10:00:21. your new balance :60947 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 198
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-08 21:20:45",
+    "new_balance": 53497.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-11-08 21:20:45. your new balance :53497 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 199
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 4000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-09 13:39:10",
+    "new_balance": 5137.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 4000 rwf has been added to your mobile money account at 2024-11-09 13:39:10. your new balance :5137 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 200
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-11 18:50:10",
+    "new_balance": 30622.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-11-11 18:50:10. your new balance :30622 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 201
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-11 19:50:12",
+    "new_balance": 9222.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-11-11 19:50:12. your new balance :9222 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 202
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 5000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-11 20:40:53",
+    "new_balance": 6122.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 5000 rwf has been added to your mobile money account at 2024-11-11 20:40:53. your new balance :6122 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 203
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-11 23:18:19",
+    "new_balance": 50022.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-11-11 23:18:19. your new balance :50022 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 204
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-12 21:43:24",
+    "new_balance": 11022.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-11-12 21:43:24. your new balance :11022 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 205
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 25000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-12 23:45:17",
+    "new_balance": 33022.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 25000 rwf has been added to your mobile money account at 2024-11-12 23:45:17. your new balance :33022 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 206
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-16 13:13:48",
+    "new_balance": 20202.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-11-16 13:13:48. your new balance :20202 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 207
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 200000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-22 15:00:13",
+    "new_balance": 200185.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 200000 rwf has been added to your mobile money account at 2024-11-22 15:00:13. your new balance :200185 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 208
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-24 12:20:25",
+    "new_balance": 66922.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-11-24 12:20:25. your new balance :66922 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 209
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-25 15:32:28",
+    "new_balance": 15822.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-11-25 15:32:28. your new balance :15822 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 210
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-26 11:32:50",
+    "new_balance": 51422.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-11-26 11:32:50. your new balance :51422 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 211
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 250000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-26 22:45:43",
+    "new_balance": 265552.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 250000 rwf has been added to your mobile money account at 2024-11-26 22:45:43. your new balance :265552 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 212
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-28 14:41:07",
+    "new_balance": 55452.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-11-28 14:41:07. your new balance :55452 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 213
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-29 01:09:21",
+    "new_balance": 39582.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-11-29 01:09:21. your new balance :39582 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 214
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-29 23:13:36",
+    "new_balance": 51712.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-11-29 23:13:36. your new balance :51712 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 215
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 100000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-30 14:22:02",
+    "new_balance": 110992.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 100000 rwf has been added to your mobile money account at 2024-11-30 14:22:02. your new balance :110992 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 216
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 200000.0,
+    "currency": "RWF",
+    "timestamp": "2024-11-30 16:34:05",
+    "new_balance": 279492.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 200000 rwf has been added to your mobile money account at 2024-11-30 16:34:05. your new balance :279492 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 217
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-03 21:03:18",
+    "new_balance": 51424.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-03 21:03:18. your new balance :51424 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 218
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-05 17:59:53",
+    "new_balance": 30624.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-12-05 17:59:53. your new balance :30624 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 219
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-07 12:56:26",
+    "new_balance": 59124.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-07 12:56:26. your new balance :59124 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 220
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-08 19:25:23",
+    "new_balance": 50792.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-08 19:25:23. your new balance :50792 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 221
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-09 23:43:35",
+    "new_balance": 22242.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-12-09 23:43:35. your new balance :22242 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 222
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 8000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-10 13:34:34",
+    "new_balance": 8742.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 8000 rwf has been added to your mobile money account at 2024-12-10 13:34:34. your new balance :8742 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 223
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-11 13:33:37",
+    "new_balance": 10142.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-12-11 13:33:37. your new balance :10142 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 224
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-11 14:58:07",
+    "new_balance": 13042.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-12-11 14:58:07. your new balance :13042 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 225
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-11 17:29:34",
+    "new_balance": 52942.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-11 17:29:34. your new balance :52942 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 226
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 200000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-12 11:10:37",
+    "new_balance": 240642.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 200000 rwf has been added to your mobile money account at 2024-12-12 11:10:37. your new balance :240642 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 227
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-13 13:00:38",
+    "new_balance": 85142.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-13 13:00:38. your new balance :85142 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 228
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-16 10:53:25",
+    "new_balance": 30191.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-12-16 10:53:25. your new balance :30191 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 229
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 20000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-20 11:50:28",
+    "new_balance": 21992.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 20000 rwf has been added to your mobile money account at 2024-12-20 11:50:28. your new balance :21992 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 230
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 15000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-21 12:01:26",
+    "new_balance": 16642.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 15000 rwf has been added to your mobile money account at 2024-12-21 12:01:26. your new balance :16642 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 231
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-22 11:46:11",
+    "new_balance": 52742.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-22 11:46:11. your new balance :52742 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 232
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-22 20:25:57",
+    "new_balance": 13832.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-12-22 20:25:57. your new balance :13832 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 233
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-22 21:49:11",
+    "new_balance": 13732.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2024-12-22 21:49:11. your new balance :13732 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 234
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-23 00:41:47",
+    "new_balance": 51132.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-23 00:41:47. your new balance :51132 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 235
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-23 03:16:04",
+    "new_balance": 48282.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2024-12-23 03:16:04. your new balance :48282 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 236
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-23 18:09:17",
+    "new_balance": 58032.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-23 18:09:17. your new balance :58032 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 237
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-23 21:49:24",
+    "new_balance": 72532.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-12-23 21:49:24. your new balance :72532 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 238
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-27 19:24:26",
+    "new_balance": 78434.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-27 19:24:26. your new balance :78434 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 239
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-28 21:22:51",
+    "new_balance": 35864.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2024-12-28 21:22:51. your new balance :35864 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 240
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-29 14:01:49",
+    "new_balance": 66864.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-29 14:01:49. your new balance :66864 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 241
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2024-12-30 00:52:09",
+    "new_balance": 58364.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2024-12-30 00:52:09. your new balance :58364 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 242
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2025-01-02 19:39:49",
+    "new_balance": 15672.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2025-01-02 19:39:49. your new balance :15672 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 243
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 10000.0,
+    "currency": "RWF",
+    "timestamp": "2025-01-02 23:14:15",
+    "new_balance": 11922.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 10000 rwf has been added to your mobile money account at 2025-01-02 23:14:15. your new balance :11922 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 244
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 40000.0,
+    "currency": "RWF",
+    "timestamp": "2025-01-03 20:40:07",
+    "new_balance": 46222.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 40000 rwf has been added to your mobile money account at 2025-01-03 20:40:07. your new balance :46222 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 245
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 30000.0,
+    "currency": "RWF",
+    "timestamp": "2025-01-06 18:49:15",
+    "new_balance": 30737.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 30000 rwf has been added to your mobile money account at 2025-01-06 18:49:15. your new balance :30737 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 246
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2025-01-08 22:10:26",
+    "new_balance": 52899.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2025-01-08 22:10:26. your new balance :52899 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 247
+  },
+  {
+    "transaction_type": "bank_deposit",
+    "amount": 50000.0,
+    "currency": "RWF",
+    "timestamp": "2025-01-12 18:29:25",
+    "new_balance": 67873.0,
+    "deposit_reference": "cash deposit::cash::::0::250795963036",
+    "raw_message": "*113*r*a bank deposit of 50000 rwf has been added to your mobile money account at 2025-01-12 18:29:25. your new balance :67873 rwf. cash deposit::cash::::0::250795963036.thank you for using mtn mobilemoney.*en#",
+    "line_number": 248
+  }
+]

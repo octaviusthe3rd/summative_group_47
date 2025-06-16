@@ -260,9 +260,8 @@ class JSONToSQLite:
         insert_sql = '''
             INSERT INTO bank_transfer_transactions 
             (amount, currency, recipient_name, recipient_phone, sender_account, 
-             bank, timestamp, new_balance, message_from_sender, message_to_receiver, 
-             financial_transaction_id, raw_message)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+             bank, timestamp, financial_transaction_id, raw_message)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
         '''
         
         for record in data:
@@ -274,9 +273,6 @@ class JSONToSQLite:
                 record.get('sender_account'),
                 record.get('bank'),
                 self.parse_timestamp(record.get('timestamp')),
-                record.get('new_balance'),
-                record.get('message_from_sender'),
-                record.get('message_to_receiver'),
                 record.get('financial_transaction_id'),
                 record.get('raw_message')
             )
