@@ -1,6 +1,6 @@
 # Data Processing for MTN Momo Data
 
-As stated above, this repository contains an xml file containing 1600 messages from MTN Momo (data) as well as code to extract the data from the xml file, sort it into different categories, then extracting information from these messages and storing them in an SQLite database.
+As stated above, this repository contains an xml file containing 1600 messages from MTN Momo (data) as well as code to extract the data from the xml file, sort it into different categories, then extracting information from these messages and storing it in an SQLite database.
 
 ## Installation
 
