@@ -141,7 +141,7 @@ class SMSParser:
             'merchant': match.group(3).strip(),
             'timestamp': match.group(4),
             'new_balance': self.clean_amount(match.group(6)),
-            'financial_transaction_id': match.group(1),
+            'financial_transaction_id': match.group(9),
             'external_transaction_id': match.group(10).strip()
         }
     
@@ -203,8 +203,6 @@ class SMSParser:
             'external_transaction_messages.txt': 'external_transaction',
             'withdrawal_messages.txt': 'withdrawal'
         }
-        
-        summary = {}
         
         for filename, transaction_type in files.items():
             file_path = os.path.join(input_directory, filename)

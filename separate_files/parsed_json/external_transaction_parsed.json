@@ -6,7 +6,7 @@
     "merchant": "direct payment ltd",
     "timestamp": "2024-05-14 21:01:00",
     "new_balance": 4060.0,
-    "financial_transaction_id": "25000",
+    "financial_transaction_id": "13947831685",
     "external_transaction_id": "47842929",
     "raw_message": "*164*s*y'ello,a transaction of 25000 rwf by direct payment ltd  on your momo account was successfully completed at 2024-05-14 21:01:00. message from debit receiver: . your new balance:4060 rwf. fee was 0 rwf. financial transaction id: 13947831685. external transaction id: 47842929.*en#",
     "line_number": 1
@@ -18,7 +18,7 @@
     "merchant": "information technology  engineering construction   itec ltd",
     "timestamp": "2024-06-06 16:19:01",
     "new_balance": 230.0,
-    "financial_transaction_id": "600",
+    "financial_transaction_id": "14262449979",
     "external_transaction_id": "c5e8bfeb-33d8-4eb2-8d22-154e5ff5e310",
     "raw_message": "*164*s*y'ello,a transaction of 600 rwf by information technology  engineering construction   itec ltd on your momo account was successfully completed at 2024-06-06 16:19:01. message from debit receiver: itec pay. your new balance:230 rwf. fee was 0 rwf. financial transaction id: 14262449979. external transaction id: c5e8bfeb-33d8-4eb2-8d22-154e5ff5e310.*en#",
     "line_number": 2
@@ -30,7 +30,7 @@
     "merchant": "direct payment ltd",
     "timestamp": "2024-06-14 07:52:10",
     "new_balance": 4750.0,
-    "financial_transaction_id": "25000",
+    "financial_transaction_id": "14366722236",
     "external_transaction_id": "48214394",
     "raw_message": "*164*s*y'ello,a transaction of 25000 rwf by direct payment ltd  on your momo account was successfully completed at 2024-06-14 07:52:10. message from debit receiver: . your new balance:4750 rwf. fee was 0 rwf. financial transaction id: 14366722236. external transaction id: 48214394.*en#",
     "line_number": 3
@@ -42,7 +42,7 @@
     "merchant": "esicia ltd kpay",
     "timestamp": "2024-06-15 21:28:58",
     "new_balance": 4110.0,
-    "financial_transaction_id": "8000",
+    "financial_transaction_id": "14392932831",
     "external_transaction_id": "e39762254kpy1718479727",
     "raw_message": "*164*s*y'ello,a transaction of 8000 rwf by esicia ltd kpay on your momo account was successfully completed at 2024-06-15 21:28:58. message from debit receiver: 1599236171847972758074646. your new balance:4110 rwf. fee was 0 rwf. financial transaction id: 14392932831. external transaction id: e39762254kpy1718479727.*en#",
     "line_number": 4
@@ -54,7 +54,7 @@
     "merchant": "future dynamic  innovations ltd",
     "timestamp": "2024-06-16 19:25:44",
     "new_balance": 9350.0,
-    "financial_transaction_id": "5000",
+    "financial_transaction_id": "14404189056",
     "external_transaction_id": "475e95b8a1d049c2ba9ee675401d9332",
     "raw_message": "*164*s*y'ello,a transaction of 5000 rwf by future dynamic  innovations ltd on your momo account was successfully completed at 2024-06-16 19:25:44. message from debit receiver: 610. your new balance:9350 rwf. fee was 0 rwf. financial transaction id: 14404189056. external transaction id: 475e95b8a1d049c2ba9ee675401d9332.*en#",
     "line_number": 5
@@ -66,7 +66,7 @@
     "merchant": "intouch communications  ltd",
     "timestamp": "2024-06-29 00:32:19",
     "new_balance": 21670.0,
-    "financial_transaction_id": "20000",
+    "financial_transaction_id": "14574631016",
     "external_transaction_id": "169587820240628223202678996",
     "raw_message": "*164*s*y'ello,a transaction of 20000 rwf by intouch communications  ltd on your momo account was successfully completed at 2024-06-29 00:32:19. message from debit receiver: 250795963036. your new balance:21670 rwf. fee was 0 rwf. financial transaction id: 14574631016. external transaction id: 169587820240628223202678996.*en#",
     "line_number": 6
@@ -78,7 +78,7 @@
     "merchant": "intouch communications  ltd",
     "timestamp": "2024-06-29 16:06:06",
     "new_balance": 45870.0,
-    "financial_transaction_id": "20000",
+    "financial_transaction_id": "14582579702",
     "external_transaction_id": "169710420240629140334182447",
     "raw_message": "*164*s*y'ello,a transaction of 20000 rwf by intouch communications  ltd on your momo account was successfully completed at 2024-06-29 16:06:06. message from debit receiver: 250795963036. your new balance:45870 rwf. fee was 0 rwf. financial transaction id: 14582579702. external transaction id: 169710420240629140334182447.*en#",
     "line_number": 7
@@ -90,7 +90,7 @@
     "merchant": "intouch communications  ltd",
     "timestamp": "2024-09-08 01:12:33",
     "new_balance": 103260.0,
-    "financial_transaction_id": "20000",
+    "financial_transaction_id": "15628862865",
     "external_transaction_id": "188160120240907231214390890",
     "raw_message": "*164*s*y'ello,a transaction of 20000 rwf by intouch communications  ltd on your momo account was successfully completed at 2024-09-08 01:12:33. message from debit receiver: 250795963036. your new balance:103260 rwf. fee was 0 rwf. financial transaction id: 15628862865. external transaction id: 188160120240907231214390890.*en#",
     "line_number": 8
@@ -102,7 +102,7 @@
     "merchant": "esicia ltd kpay",
     "timestamp": "2024-09-15 22:59:03",
     "new_balance": 24750.0,
-    "financial_transaction_id": "10500",
+    "financial_transaction_id": "15747282067",
     "external_transaction_id": "e42267291kpy1726433927",
     "raw_message": "*164*s*y'ello,a transaction of 10500 rwf by esicia ltd kpay on your momo account was successfully completed at 2024-09-15 22:59:03. message from debit receiver: 1727901172643392758074144. your new balance:24750 rwf. fee was 0 rwf. financial transaction id: 15747282067. external transaction id: e42267291kpy1726433927.*en#",
     "line_number": 9
@@ -114,7 +114,7 @@
     "merchant": "information technology  engineering construction   itec ltd",
     "timestamp": "2024-09-24 18:37:52",
     "new_balance": 1180.0,
-    "financial_transaction_id": "200",
+    "financial_transaction_id": "15874896437",
     "external_transaction_id": "68d6367d-f56d-4436-a31f-6f59aeb70ef3",
     "raw_message": "*164*s*y'ello,a transaction of 200 rwf by information technology  engineering construction   itec ltd on your momo account was successfully completed at 2024-09-24 18:37:52. message from debit receiver: itec pay. your new balance:1180 rwf. fee was 0 rwf. financial transaction id: 15874896437. external transaction id: 68d6367d-f56d-4436-a31f-6f59aeb70ef3.*en#",
     "line_number": 10
@@ -126,7 +126,7 @@
     "merchant": "esicia ltd kpay",
     "timestamp": "2024-09-28 22:56:50",
     "new_balance": 43210.0,
-    "financial_transaction_id": "13000",
+    "financial_transaction_id": "15940915096",
     "external_transaction_id": "e42831629kpy1727556993",
     "raw_message": "*164*s*y'ello,a transaction of 13000 rwf by esicia ltd kpay on your momo account was successfully completed at 2024-09-28 22:56:50. message from debit receiver: 1745596172755699358074193. your new balance:43210 rwf. fee was 0 rwf. financial transaction id: 15940915096. external transaction id: e42831629kpy1727556993.*en#",
     "line_number": 11
@@ -138,7 +138,7 @@
     "merchant": "irembo ltd",
     "timestamp": "2024-10-03 17:49:18",
     "new_balance": 4012.0,
-    "financial_transaction_id": "25000",
+    "financial_transaction_id": "16030998575",
     "external_transaction_id": "881003055321",
     "raw_message": "*164*s*y'ello,a transaction of 25000 rwf by irembo ltd on your momo account was successfully completed at 2024-10-03 17:49:18. message from debit receiver: 881003055321. your new balance:4012 rwf. fee was 0 rwf. financial transaction id: 16030998575. external transaction id: 881003055321.*en#",
     "line_number": 12
@@ -150,7 +150,7 @@
     "merchant": "esicia ltd",
     "timestamp": "2024-10-11 14:03:20",
     "new_balance": 69655.0,
-    "financial_transaction_id": "11600",
+    "financial_transaction_id": "16178728333",
     "external_transaction_id": "e43388184pyr1728648034",
     "raw_message": "*164*s*y'ello,a transaction of 11600 rwf by esicia ltd on your momo account was successfully completed at 2024-10-11 14:03:20. message from debit receiver: 1763055172864803458074359retry. your new balance:69655 rwf. fee was 0 rwf. financial transaction id: 16178728333. external transaction id: e43388184pyr1728648034.*en#",
     "line_number": 13
@@ -162,7 +162,7 @@
     "merchant": "irembo ltd",
     "timestamp": "2024-10-19 11:50:25",
     "new_balance": 10750.0,
-    "financial_transaction_id": "5000",
+    "financial_transaction_id": "16327063889",
     "external_transaction_id": "881019247301",
     "raw_message": "*164*s*y'ello,a transaction of 5000 rwf by irembo ltd on your momo account was successfully completed at 2024-10-19 11:50:25. message from debit receiver: 881019247301. your new balance:10750 rwf. fee was 0 rwf. financial transaction id: 16327063889. external transaction id: 881019247301.*en#",
     "line_number": 14
@@ -174,7 +174,7 @@
     "merchant": "intouch communications  ltd",
     "timestamp": "2024-11-02 00:47:43",
     "new_balance": 14372.0,
-    "financial_transaction_id": "10000",
+    "financial_transaction_id": "16591010120",
     "external_transaction_id": "194832520241101224717179801",
     "raw_message": "*164*s*y'ello,a transaction of 10000 rwf by intouch communications  ltd on your momo account was successfully completed at 2024-11-02 00:47:43. message from debit receiver: 250795963036. your new balance:14372 rwf. fee was 0 rwf. financial transaction id: 16591010120. external transaction id: 194832520241101224717179801.*en#",
     "line_number": 17
@@ -186,7 +186,7 @@
     "merchant": "information technology  engineering construction   itec ltd",
     "timestamp": "2024-11-30 14:39:06",
     "new_balance": 79492.0,
-    "financial_transaction_id": "200",
+    "financial_transaction_id": "17149096701",
     "external_transaction_id": "65c28253-1297-4c0d-b38b-8edec42fa2e2",
     "raw_message": "*164*s*y'ello,a transaction of 200 rwf by information technology  engineering construction   itec ltd on your momo account was successfully completed at 2024-11-30 14:39:06. message from debit receiver: itec pay. your new balance:79492 rwf. fee was 0 rwf. financial transaction id: 17149096701. external transaction id: 65c28253-1297-4c0d-b38b-8edec42fa2e2.*en#",
     "line_number": 18
@@ -198,7 +198,7 @@
     "merchant": "information technology  engineering construction   itec ltd",
     "timestamp": "2024-12-02 16:22:35",
     "new_balance": 122044.0,
-    "financial_transaction_id": "300",
+    "financial_transaction_id": "17192081844",
     "external_transaction_id": "96218fc3-5668-401b-bf53-4fd66a9e276f",
     "raw_message": "*164*s*y'ello,a transaction of 300 rwf by information technology  engineering construction   itec ltd on your momo account was successfully completed at 2024-12-02 16:22:35. message from debit receiver: itec pay. your new balance:122044 rwf. fee was 0 rwf. financial transaction id: 17192081844. external transaction id: 96218fc3-5668-401b-bf53-4fd66a9e276f.*en#",
     "line_number": 19
@@ -210,7 +210,7 @@
     "merchant": "information technology  engineering construction   itec ltd",
     "timestamp": "2024-12-03 21:17:17",
     "new_balance": 20524.0,
-    "financial_transaction_id": "400",
+    "financial_transaction_id": "17219848993",
     "external_transaction_id": "6ed516b1-6031-4395-9072-b895b96561e7",
     "raw_message": "*164*s*y'ello,a transaction of 400 rwf by information technology  engineering construction   itec ltd on your momo account was successfully completed at 2024-12-03 21:17:17. message from debit receiver: itec pay. your new balance:20524 rwf. fee was 0 rwf. financial transaction id: 17219848993. external transaction id: 6ed516b1-6031-4395-9072-b895b96561e7.*en#",
     "line_number": 20
@@ -222,7 +222,7 @@
     "merchant": "information technology  engineering construction   itec ltd",
     "timestamp": "2024-12-04 18:17:17",
     "new_balance": 15124.0,
-    "financial_transaction_id": "300",
+    "financial_transaction_id": "17236283233",
     "external_transaction_id": "2eb6d6d7-83ef-43e8-be2c-79af26d8d3b9",
     "raw_message": "*164*s*y'ello,a transaction of 300 rwf by information technology  engineering construction   itec ltd on your momo account was successfully completed at 2024-12-04 18:17:17. message from debit receiver: itec pay. your new balance:15124 rwf. fee was 0 rwf. financial transaction id: 17236283233. external transaction id: 2eb6d6d7-83ef-43e8-be2c-79af26d8d3b9.*en#",
     "line_number": 21
@@ -234,7 +234,7 @@
     "merchant": "information technology  engineering construction   itec ltd",
     "timestamp": "2024-12-06 19:22:45",
     "new_balance": 9124.0,
-    "financial_transaction_id": "900",
+    "financial_transaction_id": "17278839589",
     "external_transaction_id": "9838017e-bba5-4d1f-b7a9-e57bc604e41d",
     "raw_message": "*164*s*y'ello,a transaction of 900 rwf by information technology  engineering construction   itec ltd on your momo account was successfully completed at 2024-12-06 19:22:45. message from debit receiver: itec pay. your new balance:9124 rwf. fee was 0 rwf. financial transaction id: 17278839589. external transaction id: 9838017e-bba5-4d1f-b7a9-e57bc604e41d.*en#",
     "line_number": 22
