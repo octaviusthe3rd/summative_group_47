@@ -17,7 +17,7 @@ As stated above, this repository contains an xml file containing 1600 messages f
 
     Mac/Linux command:
 
-            source myenv/bin/activate
+            source dev_env/bin/activate
 
 4. Install the project dependecies using the following command
 
