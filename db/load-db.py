@@ -22,7 +22,6 @@ class JSONToSQLite:
                     sender_name VARCHAR(255),
                     sender_phone VARCHAR(20),
                     timestamp DATETIME,
-                    message_from_sender TEXT,
                     new_balance DECIMAL(15,2),
                     financial_transaction_id VARCHAR(50),
                     raw_message TEXT
@@ -36,9 +35,7 @@ class JSONToSQLite:
                     recipient_name VARCHAR(255),
                     recipient_id VARCHAR(50),
                     timestamp DATETIME,
-                    message TEXT,
                     new_balance DECIMAL(15,2),
-                    fee DECIMAL(10,2),
                     txid VARCHAR(50),
                     raw_message TEXT
                 )
@@ -67,9 +64,6 @@ class JSONToSQLite:
                     sender_account VARCHAR(50),
                     bank VARCHAR(100),
                     timestamp DATETIME,
-                    new_balance DECIMAL(15,2),
-                    message_from_sender TEXT,
-                    message_to_receiver TEXT,
                     financial_transaction_id VARCHAR(50),
                     raw_message TEXT
                 )
@@ -91,7 +85,6 @@ class JSONToSQLite:
                     amount DECIMAL(15,2),
                     currency VARCHAR(10),
                     timestamp DATETIME,
-                    fee DECIMAL(10,2),
                     new_balance DECIMAL(15,2),
                     txid VARCHAR(50),
                     raw_message TEXT
@@ -104,7 +97,6 @@ class JSONToSQLite:
                     currency VARCHAR(10),
                     service VARCHAR(100),
                     timestamp DATETIME,
-                    fee DECIMAL(10,2),
                     new_balance DECIMAL(15,2),
                     txid VARCHAR(50),
                     raw_message TEXT
@@ -117,7 +109,6 @@ class JSONToSQLite:
                     currency VARCHAR(10),
                     token VARCHAR(100),
                     timestamp DATETIME,
-                    fee DECIMAL(10,2),
                     new_balance DECIMAL(15,2),
                     txid VARCHAR(50),
                     raw_message TEXT
@@ -130,9 +121,7 @@ class JSONToSQLite:
                     currency VARCHAR(10),
                     merchant VARCHAR(255),
                     timestamp DATETIME,
-                    message_from_debit_receiver TEXT,
                     new_balance DECIMAL(15,2),
-                    fee DECIMAL(10,2),
                     financial_transaction_id VARCHAR(50),
                     external_transaction_id VARCHAR(100),
                     raw_message TEXT
@@ -151,7 +140,6 @@ class JSONToSQLite:
                     timestamp DATETIME,
                     new_balance DECIMAL(15,2),
                     fee DECIMAL(10,2),
-                    message_from_agent TEXT,
                     financial_transaction_id VARCHAR(50),
                     raw_message TEXT
                 )
@@ -190,8 +178,8 @@ class JSONToSQLite:
         insert_sql = '''
             INSERT INTO received_transactions 
             (amount, currency, sender_name, sender_phone, timestamp, 
-             message_from_sender, new_balance, financial_transaction_id, raw_message)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+             new_balance, financial_transaction_id, raw_message)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         '''
         
         for record in data:
@@ -201,7 +189,6 @@ class JSONToSQLite:
                 record.get('sender_name'),
                 record.get('sender_phone'),
                 self.parse_timestamp(record.get('timestamp')),
-                record.get('message_from_sender'),
                 record.get('new_balance'),
                 record.get('financial_transaction_id'),
                 record.get('raw_message')
@@ -218,8 +205,8 @@ class JSONToSQLite:
         insert_sql = '''
             INSERT INTO payment_transactions 
             (amount, currency, recipient_name, recipient_id, timestamp, 
-             message, new_balance, fee, txid, raw_message)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+             new_balance, txid, raw_message)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         '''
         
         for record in data:
@@ -229,9 +216,7 @@ class JSONToSQLite:
                 record.get('recipient_name'),
                 record.get('recipient_id'),
                 self.parse_timestamp(record.get('timestamp')),
-                record.get('message', ''),
                 record.get('new_balance'),
-                record.get('fee'),
                 record.get('txid'),
                 record.get('raw_message')
             )
@@ -330,8 +315,8 @@ class JSONToSQLite:
         
         insert_sql = '''
             INSERT INTO airtime_transactions 
-            (amount, currency, timestamp, fee, new_balance, txid, raw_message)
-            VALUES (?, ?, ?, ?, ?, ?, ?)
+            (amount, currency, timestamp, new_balance, txid, raw_message)
+            VALUES (?, ?, ?, ?, ?, ?)
         '''
         
         for record in data:
@@ -339,7 +324,6 @@ class JSONToSQLite:
                 record.get('amount'),
                 record.get('currency'),
                 self.parse_timestamp(record.get('timestamp')),
-                record.get('fee'),
                 record.get('new_balance'),
                 record.get('txid'),
                 record.get('raw_message')
@@ -355,8 +339,8 @@ class JSONToSQLite:
         
         insert_sql = '''
             INSERT INTO bundle_transactions 
-            (amount, currency, service, timestamp, fee, new_balance, txid, raw_message)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            (amount, currency, service, timestamp, new_balance, txid, raw_message)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
         '''
         
         for record in data:
@@ -365,7 +349,6 @@ class JSONToSQLite:
                 record.get('currency'),
                 record.get('service'),
                 self.parse_timestamp(record.get('timestamp')),
-                record.get('fee'),
                 record.get('new_balance'),
                 record.get('txid'),
                 record.get('raw_message')
@@ -381,8 +364,8 @@ class JSONToSQLite:
         
         insert_sql = '''
             INSERT INTO cash_power_transactions 
-            (amount, currency, token, timestamp, fee, new_balance, txid, raw_message)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            (amount, currency, token, timestamp, new_balance, txid, raw_message)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
         '''
         
         for record in data:
@@ -391,7 +374,6 @@ class JSONToSQLite:
                 record.get('currency'),
                 record.get('token'),
                 self.parse_timestamp(record.get('timestamp')),
-                record.get('fee'),
                 record.get('new_balance'),
                 record.get('txid'),
                 record.get('raw_message')
@@ -407,9 +389,9 @@ class JSONToSQLite:
         
         insert_sql = '''
             INSERT INTO external_transactions 
-            (amount, currency, merchant, timestamp, message_from_debit_receiver, 
-             new_balance, fee, financial_transaction_id, external_transaction_id, raw_message)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            (amount, currency, merchant, timestamp, new_balance, 
+            financial_transaction_id, external_transaction_id, raw_message)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         '''
         
         for record in data:
@@ -418,9 +400,7 @@ class JSONToSQLite:
                 record.get('currency'),
                 record.get('merchant'),
                 self.parse_timestamp(record.get('timestamp')),
-                record.get('message_from_debit_receiver'),
                 record.get('new_balance'),
-                record.get('fee'),
                 record.get('financial_transaction_id'),
                 record.get('external_transaction_id'),
                 record.get('raw_message')
@@ -438,8 +418,8 @@ class JSONToSQLite:
             INSERT INTO withdrawal_transactions 
             (amount, currency, customer_name, customer_phone, agent_name, 
              agent_phone, account, timestamp, new_balance, fee, 
-             message_from_agent, financial_transaction_id, raw_message)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+             financial_transaction_id, raw_message)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         '''
         
         for record in data:
@@ -454,7 +434,6 @@ class JSONToSQLite:
                 self.parse_timestamp(record.get('timestamp')),
                 record.get('new_balance'),
                 record.get('fee'),
-                record.get('message_from_agent'),
                 record.get('financial_transaction_id'),
                 record.get('raw_message')
             )

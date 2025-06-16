@@ -6,10 +6,10 @@ class SMSParser:
     def __init__(self):
         self.patterns = {
             'received': [
-                r'you have received (\d+(?:,\d+)*) (\w+) from (.+?) \(\*+(\d+)\) on your mobile money account at ([\d-]+ [\d:]+)\. message from sender: (.*?)\. your new balance:(\d+(?:,\d+)*) (\w+)\. financial transaction id: (\d+)',
+                r'you have received (\d+(?:,\d+)*) (\w+) from (.+?) \(\*+(\d+)\) on your mobile money account at ([\d-]+ [\d:]+)\. message from sender:. your new balance:(\d+(?:,\d+)*) (\w+)\. financial transaction id: (\d+)',
             ],
             'payment': [
-                r'txid: (\d+)\. your payment of ([\d,]+) (\w+) to (.+?) (\w+) has been completed at ([\d-]+ [\d:]+)\. your new balance: ([\d,]+) (\w+)\. fee was (\d+) (\w+)',
+                r'txid: (\d+)\. your payment of ([\d,]+) (\w+) to (.+?) (\w+) has been completed at ([\d-]+ [\d:]+)\. your new balance: ([\d,]+) (\w+)\. fee was 0 (\w+)',
             ],
             'transfer': [
                 r'\*165\*s\*(\d+(?:,\d+)*) (\w+) transferred to (.+?) \((\d+)\) from (\d+) at ([\d-]+ [\d:]+) \. fee was: (\d+) (\w+)\. new balance: (\d+(?:,\d+)*) (\w+)',
@@ -21,19 +21,19 @@ class SMSParser:
                 r'\*113\*r\*a bank deposit of (\d+(?:,\d+)*) (\w+) has been added to your mobile money account at ([\d-]+ [\d:]+)\. your new balance :(\d+(?:,\d+)*) (\w+)\. (.*?)\.',
             ],
             'airtime': [
-                r'\*162\*txid:(\d+)\*s\*your payment of (\d+(?:,\d+)*) (\w+) to airtime with token .* has been completed at ([\d-]+ [\d:]+)\. fee was (\d+) (\w+)\. your new balance: (\d+(?:,\d+)*) (\w+)',
+                r'\*162\*txid:(\d+)\*s\*your payment of (\d+(?:,\d+)*) (\w+) to airtime with token .* has been completed at ([\d-]+ [\d:]+)\. fee was 0 (\w+)\. your new balance: (\d+(?:,\d+)*) (\w+)',
             ],
             'bundle': [
-                r'\*162\*txid:(\d+)\*s\*your payment of (\d+(?:,\d+)*) (\w+) to (bundles and packs|bundle) with token .* has been completed at ([\d-]+ [\d:]+)\. fee was (\d+) (\w+)\. your new balance: (\d+(?:,\d+)*) (\w+)',
+                r'\*162\*txid:(\d+)\*s\*your payment of (\d+(?:,\d+)*) (\w+) to (bundles and packs|bundle) with token .* has been completed at ([\d-]+ [\d:]+)\. fee was 0 (\w+)\. your new balance: (\d+(?:,\d+)*) (\w+)',
             ],
             'cash_power': [
-                r'\*162\*txid:(\d+)\*s\*your payment of (\d+(?:,\d+)*) (\w+) to mtn cash power with token (.+?) has been completed at ([\d-]+ [\d:]+)\. fee was (\d+) (\w+)\. your new balance: (\d+(?:,\d+)*) (\w+)',
+                r'\*162\*txid:(\d+)\*s\*your payment of (\d+(?:,\d+)*) (\w+) to mtn cash power with token (.+?) has been completed at ([\d-]+ [\d:]+)\. fee was 0 (\w+)\. your new balance: (\d+(?:,\d+)*) (\w+)',
             ],
             'external_transaction': [
-                r'\*164\*s\*y\'ello,a transaction of (\d+(?:,\d+)*) (\w+) by (.+?) on your momo account was successfully completed at ([\d-]+ [\d:]+)\. message from debit receiver: (.*?)\. your new balance:(\d+(?:,\d+)*) (\w+)\. fee was (\d+) (\w+)\. financial transaction id: (\d+)\. external transaction id: (.+?)\.',
+                r'\*164\*s\*y\'ello,a transaction of (\d+(?:,\d+)*) (\w+) by (.+?) on your momo account was successfully completed at ([\d-]+ [\d:]+)\. message from debit receiver: (.*?)\. your new balance:(\d+(?:,\d+)*) (\w+)\. fee was 0 (\w+)\. financial transaction id: (\d+)\. external transaction id: (.+?)\.',
             ],
             'withdrawal': [
-                r'you (.+?) \(\*+(\d+)\) have via agent: (.+?) \((\d+)\), withdrawn (\d+(?:,\d+)*) (\w+) from your mobile money account: (\d+) at ([\d-]+ [\d:]+) .* your new balance: (\d+(?:,\d+)*) (\w+)\. fee paid: (\d+) (\w+)\. message from agent: (.*?)\. financial transaction id: (\d+)',
+                r'you (.+?) \(\*+(\d+)\) have via agent: (.+?) \((\d+)\), withdrawn (\d+(?:,\d+)*) (\w+) from your mobile money account: (\d+) at ([\d-]+ [\d:]+) .* your new balance: (\d+(?:,\d+)*) (\w+)\. fee paid: (\d+) (\w+)\. message from agent: financial transaction id: (\d+)',
             ]
         }
     
@@ -49,9 +49,8 @@ class SMSParser:
             'sender_name': match.group(3).strip(),
             'sender_phone': match.group(4),
             'timestamp': match.group(5),
-            'message_from_sender': match.group(6).strip(),
-            'new_balance': self.clean_amount(match.group(7)),
-            'financial_transaction_id': match.group(9)
+            'new_balance': self.clean_amount(match.group(6)),
+            'financial_transaction_id': match.group(8)
         }
     
     def parse_payment(self, match):
@@ -64,7 +63,6 @@ class SMSParser:
             'recipient_id': match.group(5),
             'timestamp': match.group(6),
             'new_balance': self.clean_amount(match.group(7)),
-            'fee': float(match.group(9))
         }
     
     def parse_transfer(self, match):
@@ -90,9 +88,6 @@ class SMSParser:
             'sender_account': match.group(5),
             'bank': match.group(6).strip(),
             'timestamp': match.group(7),
-            'new_balance': match.group(8).strip() if match.group(8).strip() else None,
-            'message_from_sender': match.group(9).strip(),
-            'message_to_receiver': match.group(10).strip(),
             'financial_transaction_id': match.group(11)
         }
     
@@ -113,8 +108,7 @@ class SMSParser:
             'amount': self.clean_amount(match.group(2)),
             'currency': match.group(3).upper(),
             'timestamp': match.group(4),
-            'fee': float(match.group(5)),
-            'new_balance': self.clean_amount(match.group(7))
+            'new_balance': self.clean_amount(match.group(6))
         }
     
     def parse_bundle(self, match):
@@ -125,8 +119,7 @@ class SMSParser:
             'currency': match.group(3).upper(),
             'service': match.group(4),
             'timestamp': match.group(5),
-            'fee': float(match.group(6)),
-            'new_balance': self.clean_amount(match.group(8))
+            'new_balance': self.clean_amount(match.group(7))
         }
     
     def parse_cash_power(self, match):
@@ -137,8 +130,7 @@ class SMSParser:
             'currency': match.group(3).upper(),
             'token': match.group(4).strip(),
             'timestamp': match.group(5),
-            'fee': float(match.group(6)),
-            'new_balance': self.clean_amount(match.group(8))
+            'new_balance': self.clean_amount(match.group(7))
         }
     
     def parse_external_transaction(self, match):
@@ -148,11 +140,9 @@ class SMSParser:
             'currency': match.group(2).upper(),
             'merchant': match.group(3).strip(),
             'timestamp': match.group(4),
-            'message_from_debit_receiver': match.group(5).strip(),
             'new_balance': self.clean_amount(match.group(6)),
-            'fee': float(match.group(8)),
-            'financial_transaction_id': match.group(10),
-            'external_transaction_id': match.group(11).strip()
+            'financial_transaction_id': match.group(1),
+            'external_transaction_id': match.group(10).strip()
         }
     
     def parse_withdrawal(self, match):
@@ -168,8 +158,7 @@ class SMSParser:
             'timestamp': match.group(8),
             'new_balance': self.clean_amount(match.group(9)),
             'fee': float(match.group(11)),
-            'message_from_agent': match.group(13).strip(),
-            'financial_transaction_id': match.group(14)
+            'financial_transaction_id': match.group(13)
         }
     
     
@@ -198,7 +187,7 @@ class SMSParser:
         return parsed_data
     
     def parse_all_files(self, input_directory, output_directory):
-        #Parse all transaction files and output JSON
+        #Parse all transaction files and save to JSON
         if not os.path.exists(output_directory):
             os.makedirs(output_directory)
         
