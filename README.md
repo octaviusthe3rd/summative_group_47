@@ -6,22 +6,22 @@ As stated above, this repository contains an xml file containing 1600 messages f
 
 1. Download the repository from github using the link or the command
 
-    git clone https://github.com/octaviusthe3rd/summative_group_47.git
+     git clone https://github.com/octaviusthe3rd/summative_group_47.git
 
 2. Navigate into the downloaded repository
 3. At the root of the repository, activate the virtual environment using one of the below commands
  
-        Windows command:
+    Windows command:
 
             dev_env/Scripts/activate
 
-        Mac/Linux command:
+    Mac/Linux command:
 
             source myenv/bin/activate
 
 4. Install the project dependecies using the following command
 
-    pip install -r requirements.txt
+            pip install -r requirements.txt
 
 ## How to run the program
 
